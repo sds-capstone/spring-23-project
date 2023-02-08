@@ -32,3 +32,7 @@ author:
 ---
 
 ## Text goes here!
+
+Be prepared to submit 300-500 detailing the problem that your project is addressing. Your goal in this section is to convince a stakeholder that this problem exists by describing the problem and then gathering evidence to support its existence. No solutions should be referenced at this point! Be sure to cite sources (if you're not sure how to sync with bibliography.bib, no worries. We will go over that soon.)
+
+As you are proving the existence of this problem, you may decide to organize your thoughts according to different scales of the problem, outline different causes of the problem, or to reference different stakeholders that may be impacted by the problem. ...while these provide good context for structuring your thinking, they shouldn't distract from the main goal - convincing that this problem exists. 
