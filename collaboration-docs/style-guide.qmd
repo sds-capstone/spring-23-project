@@ -1,0 +1,12 @@
+---
+title: Style Guide
+format: pdf
+author:
+  - name: Ben Trovato
+  - name: Ben Trovato
+  - name: Ben Trovato
+  - name: Ben Trovato
+  - name: Ben Trovato
+---
+
+# Compose style guide here!
